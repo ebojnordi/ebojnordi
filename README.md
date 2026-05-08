@@ -1,5 +1,5 @@
 # 💫 About Me:
-ML Engineer | I'm keen on learning new things.
+Data Analyst/Scientist | I'm keen on learning new things.
 
 
 ## 🌐 Socials:
